@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  8 23:43:47 2019
-
-@author: priya
-"""
-
 import pandas as pd
 from tkinter import *
 from q19_2 import *
