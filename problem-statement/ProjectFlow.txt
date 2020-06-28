@@ -1,0 +1,19 @@
+Tasks:
+1.	Percentage downloads of each category
+2.	No. of apps to get: i)>10000 & <50,000 ii) >50,000 & <1,50,000 iii) >1,50,000 & <5,00,000 iv) >5,00,000 & <50,00,000 v) > 50,00,000
+3.	 Category of apps that have got the most, least and average of 2,50,000 downloads atleast
+4.	Category of apps that have highest avg ratings from user
+5.	Download trend category wise over the period
+6.	For '16, '17, '18 category of data of apps that have got the most and least downloads. % increase or decrease apps have got over period of 3 years
+7.	Apps whose Android version is not an issue, what is the % increase or decrease in downloads? 
+8.	Among sports, entertainment, media, news, events, travel, and games, which is the category of app that is most likely to be downloaded in coming years need a prediction model and back it with suitable findings
+9.	All apps with 1,00,000+ downloads have avg rating of 4.1 and above? Relation between no of downloads and ratings? 
+10.	Which month has seen the max downloads for each category? Ratio of dowloads for app that qualifies as teen vs mature 17+ 
+11.	Which quarter of year has generated the most installs for each app used in the study?
+12.	Which app has generated the most positive and negative sentiments? Also which app has generated approx same ratio for both +ve and -ve. 
+13.	Relation between sentiment-polarity and sentiment-subjectivity of all apps
+14.	Interface where client can see reviews categorized as +ve -ve and neutral once selected an app from list of apps
+15.	Advisable to make app like "10 best foods for you"? Do users like these?
+16.	Which month(s) of the year is the best indicator as to the avg downloads that an app will generate over entire year?
+17.	Does size of app influence number of installs? If yes, +ve or -ve trend with increase in app size?120 200
+18.	Interface to add new data to both the datasets provided
