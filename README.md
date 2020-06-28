@@ -1,6 +1,6 @@
  # Google-Play-Stats
  
-I made this software as an internship project for Cyberace Infovision Pvt. Ltd.   
+I made this project as an internship project for Cyberace Infovision Pvt. Ltd.   
 The domain of the project is Python and basics of Machine Learning  
 The tasks that were assigned to me can be found [here](https://github.com/farhankapadia/Google-Play_Stats/blob/master/problem-statement/ProjectFlow.txt)    
 The project required me to create a Graphical User Interface using **tkinter** and perform data wrangling and manipulation tasks using **pandas**.  
