@@ -22,3 +22,5 @@ followed by the name of the module you need to install.
 
 In order to run the project, run the file named `main.py`  
 
+When I made this project, I was only just introduced to Python and Pandas so please excuse the tedious iterative approaches used in wrangling the data :P  
+
