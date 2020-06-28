@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  1 19:17:26 2019
-
-@author: priya
-"""
 import datetime
 from datetime import date
 import csv
