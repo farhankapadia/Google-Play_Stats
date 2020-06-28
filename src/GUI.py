@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  7 20:28:23 2019
-
-@author: mac
-"""
-
 from tkinter import *
 from PIL import ImageTk, Image
 
