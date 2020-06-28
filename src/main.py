@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  7 02:03:08 2019
-
-@author: priya
-"""
 import tkinter as tk
 import datetime
 from datetime import date
